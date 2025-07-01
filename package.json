@@ -19,5 +19,18 @@
   },
   "engines": {
     "node": ">=22"
-  }
+  },
+  "version": "1.0.0",
+  "description": "The organization is pleased with your work in creating the proof-of-concept employee-management API.\r Take your work to the next level by adding middleware and organizing your endpoints into routers!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wadespendlove/employee-directory-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wadespendlove/employee-directory-v2/issues"
+  },
+  "homepage": "https://github.com/wadespendlove/employee-directory-v2#readme"
 }
